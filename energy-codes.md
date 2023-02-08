@@ -23,10 +23,12 @@ graph TD;
 |Electralink|Distribution Connection and Use of System Agreement (DCUSA)|DCUSA is a multi-party contract between licensed electricity distributors, suppliers and generators in Great Britain concerned with the use of the electricity distribution system.
 |Energy Networks Association|Distribution Code (DCode)|Licensed electricity distribution businesses, or Distribution Network Operators (DNOs) in Great Britain, are obliged under Condition 21 of their licences to maintain a Distribution Code detailing the technical parameters and considerations relating to connection to, and use of, their electrical networks.
 
+
 ## Distribution Network Operators
 ### Distribution Network Operator Map
 
-![DNO Diagram](/images/Electricity_Distribution_Map.jpg "DNO Map")
+Insert image
+![DNO Diagram](/images/download.png "DNO Map")
 
 Insert image
 ![alt text for screen readers](Helix_Consumption_Data.png "Text to show on mouseover")
