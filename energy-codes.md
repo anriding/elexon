@@ -2,7 +2,7 @@
 
 ## Electricity Licence
 
-```mermaid
+```mermaid 
 graph TD;
 	Elexon-->BSC;
 	Gemserv-->MRA;
@@ -28,10 +28,10 @@ graph TD;
 ### Distribution Network Operator Map
 
 Insert image
-![DNO Diagram](/images/download.png "DNO Map")
+![DNO Diagram](/images/download.png "DNO Map").
 
 Insert image
-![alt text for screen readers](Helix_Consumption_Data.png "Text to show on mouseover")
+![alt text for screen readers](Helix_Consumption_Data.png "Text to show on mouseover").
 
 ### DNO List (Distribution Network Operators)
 Electricity North West  
