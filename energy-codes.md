@@ -5,12 +5,12 @@
 ```mermaid
 graph TD;
 	Elexon-->BSC;
-    Gemserv-->MRA;
-    National-Grid-ESO-->CUSC;
+	Gemserv-->MRA;
+	National-Grid-ESO-->CUSC;
 	National-Grid-ESO-->Grid-Code;
 	National-Grid-ESO-->STC;
-    Electralink-->DCUSA;
-    ENA-->DCode;
+	Electralink-->DCUSA;
+	ENA-->DCode;
 ```
 
 |Code|Managed by|Details|
@@ -27,6 +27,9 @@ graph TD;
 ### Distribution Network Operator Map
 
 ![DNO Diagram](/images/Electricity_Distribution_Map.jpg "DNO Map")
+
+Insert image
+![alt text for screen readers](Helix_Consumption_Data.png "Text to show on mouseover")
 
 ### DNO List (Distribution Network Operators)
 Electricity North West  
